@@ -2,8 +2,12 @@
 
 I am a Ph.D. Scholar of History, a lecturer at the University of the Punjab, Lahore, and a columnist specializing in international affairs. I focus on subcontinental historiography, colonial urban history, and global geopolitics from Pakistan's perspective.
 
+## 🎙️ Nida Amir Afridi Show (Podcast)
+* **Spotify for Creators:** [Listen to the Show on Spotify](https://creators.spotify.com/pod/profile/nidaamirafridi/)
+* **Apple Podcasts:** [Subscribe on Apple Podcasts](https://podcasts.apple.com/us/podcast/nida-amir-afridi-show/id6831234193)
+
 ## 📰 Daily Minute Mirror Columns
-* **Author Portfolio:** [Read all my columns on the Minute Mirror Author Page](https://minutemirror.com.pk)
+* **Author Portfolio:** [Read all my columns on the Minute Mirror Author Page](https://minutemirror.com.pk/author/nidaamir/)
 
 ### Recent Analysis & Publications:
 * **Geopolitics:** *Gulf's Costliest Misjudgment: Why Houthis We...*
@@ -12,8 +16,8 @@ I am a Ph.D. Scholar of History, a lecturer at the University of the Punjab, Lah
 * **Strategic Alliances:** *AUKUS Is Building Hulls. Is Anyone Building Resolv...*
 
 ## 🎥 Featured Documentary & Media
-* **Historical Autopsy:** [Watch my historical documentaries on YouTube](https://youtube.com)
-* **Essays & Commentary:** [Read my long-form essays via Substack](https://substack.com)
+* **Historical Autopsy:** [Watch my historical documentaries on YouTube](https://www.youtube.com/@HistoricalAutopsy)
+* **Essays & Commentary:** [Read my long-form essays via Substack](https://iqulture.substack.com)
 
 ## 🏛️ Academic Research Focus
 * **Colonial Urbanism:** The administrative, legal, and spatial transformation of the British Punjab (1849–1947).
@@ -21,3 +25,4 @@ I am a Ph.D. Scholar of History, a lecturer at the University of the Punjab, Lah
 
 ---
 * Explore my main open-access research repository: [Law, Planning, and Military Urbanism: The Making of Lahore Cantonment](https://github.com)
+Cantonment](https://github.com)
