@@ -24,6 +24,6 @@ I am a Ph.D. Scholar of History, a lecturer at the University of the Punjab, Lah
 * **Military Architecture:** Structural development and spatial segregation of imperial cantonment boards.
 
 ---
-* • Explore my main open-access research repository: [Everyday Life in Lahore Cantonment under British Rule, 1849-1947](https://github.com)
+*• Explore my main open-access research repository: [Everyday Life in Lahore Cantonment under British Rule, 1849-1947](https://github.com)
 Cantonment](https://github.com)
 Cantonment](https://github.com)
